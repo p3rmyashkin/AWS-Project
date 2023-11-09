@@ -1,2 +1,1 @@
-# AWS-Project
-Learning AWS
+# AWS Project
